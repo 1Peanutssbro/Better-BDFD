@@ -1,2 +1,2 @@
 # Better-BDFD
-A better documentation for Bot Designer for Discord, with a documentation that goes more in-detail than the official wiki.
+Better BDFD is intended to provide better documentation for Bot Designer for Discord, an app for mobile and web browsers. By no means do I claim any credit for BDFD, and I solely intend this to be an extension for users struggling to understand the code. I highly encourage using this exclusively if you cannot understand the code. I repeat that I do not claim any credit for BDScript, BDScript 2, BDScript Unstable, or any other component of Bot Designer for Discord. I hope you find this tool useful!
